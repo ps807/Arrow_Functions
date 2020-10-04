@@ -28,7 +28,6 @@ function App() {
             description={emojiTerm.meaning}
           />
         ))}
-        )
       </dl>
     </div>
   );
